@@ -32,6 +32,7 @@ public class Main {
         }
         System.out.print("\nTop student : "+topStudent+" with score : "+topScore);
         System.out.print("\nsecond top student : "+secondTopStudent+" with score : "+secondTopScore);
+        System.out.println("Done !");
 
     }
 }
